@@ -143,6 +143,21 @@ Returned to the tutorial and found a fix in the next step.
 Updated the Index.cshtml file found in the Views/Movies/, specifying that the request should be "HTTP GET" 
 Added search by Genre
 
+2024-06-06
+Started part 8
+Add a new field to an ASP.NET Core MVC app
+Added a new field "Rating"
+Migrated the new field to the database
+Ran the app and verified that I could create, edit, and display movies with a Rating field.
+Completed part 8
+
+Created git repository
+From visual studi, clicck git
+Select "local repository"
+Select clone repository
+Gave it a name 
+Provided my git credentials
+Uploaded project.
 
 
 
